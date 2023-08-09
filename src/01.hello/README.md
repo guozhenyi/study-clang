@@ -5,7 +5,8 @@
 $ gcc main.c -o hello.exe
 # 执行
 $ hello.exe
+
 # 多文件编译 
-$ gcc test1.c main.c -o main.exe
+$ gcc test1.c main.c -o abc.exe
 
 ```
