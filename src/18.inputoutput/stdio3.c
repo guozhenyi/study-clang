@@ -17,6 +17,7 @@ int main()
   // printf("pointer: %x\n", p2);
 
   // 遍历字符串的字符
+  // char *p = &str; 编译器警告？
   char *p = str;
   int len = sizeof(str);
 
