@@ -1,4 +1,6 @@
-# C/C++ 项目编译方法
+# Study C Lang
+
+## C/C++ 项目编译方法
 
 安装cmake工具
 
